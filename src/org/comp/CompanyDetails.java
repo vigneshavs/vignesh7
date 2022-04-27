@@ -12,6 +12,11 @@ public class CompanyDetails {
 
 	}
 	
+	private void companyPlantHead() {
+		System.out.println("vignesh");
+
+	}
+	
 	public static void main(String[] args) {
 		
 		CompanyDetails c = new CompanyDetails();
