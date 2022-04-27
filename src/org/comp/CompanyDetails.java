@@ -12,6 +12,11 @@ public class CompanyDetails {
 
 	}
 	
+	private void companyId() {
+		System.out.println("Company id is 004");
+
+	}
+	
 	public static void main(String[] args) {
 		
 		CompanyDetails c = new CompanyDetails();
